@@ -1,1 +1,1 @@
-https://image-search-sloba.glitch.me/
+https://file-metadata-sloba.glitch.me/
